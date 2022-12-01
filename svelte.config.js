@@ -19,10 +19,10 @@ const mdsvexConfig = {
 			remarkGfm,
 			{
 				// Use your own repository
-				repository: 'https://github.com/sw-yx/swyxdotio'
+				repository: 'https://github.com/kealanparr/developer-forge-io'
 			}
 		],
-		[remarkGithub, { repository: 'https://github.com/sw-yx/swyxdotio/' }],
+		[remarkGithub, { repository: 'https://github.com/kealanparr/developer-forge-io' }],
 		remarkAbbr
 	],
 	rehypePlugins: [

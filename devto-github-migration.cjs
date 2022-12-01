@@ -74,7 +74,7 @@ ${stripHeader(post.body_markdown)}`;
 
 	// console.log(body.slice(0, 500))
 
-	await fetch('https://api.github.com/repos/sw-yx/swyxdotio/issues', {
+	await fetch('https://api.github.com/repos/kealanparr/developer-forge-io/issues', {
 		method: 'POST',
 		headers: {
 			Authorization: `token ${process.env.GH_TOKEN}`,

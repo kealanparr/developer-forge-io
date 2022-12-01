@@ -5,7 +5,7 @@
   // more info https://twitter.com/Rich_Harris/status/1376578504704331778?s=20
 </script>
 
-<img class="rounded-full h-28 w-28 float-right" src="/swyx-ski.jpeg" alt="swyx at Niseko" />
+<img class="rounded-full h-28 w-28 float-right" src="/profile-pic.jpg" alt="swyx at Niseko" />
 
 ## TL;DR
 

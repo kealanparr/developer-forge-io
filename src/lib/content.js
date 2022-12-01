@@ -19,8 +19,8 @@ import rehypeAutoLink from 'rehype-autolink-headings';
 
 const remarkPlugins = [
 	remarkToc,
-	[remarkGithub, { repository: 'https://github.com/sw-yx/swyxdotio/' }],
-	[remarkGfm, { repository: 'https://github.com/sw-yx/swyxdotio/' }],
+	[remarkGithub, { repository: 'https://github.com/kealanparr/developer-forge-io' }],
+	[remarkGfm, { repository: 'https://github.com/kealanparr/developer-forge-io' }],
 ];
 const rehypePlugins = [
 	rehypeStringify,
@@ -34,7 +34,7 @@ const rehypePlugins = [
 	]
 ];
 
-const allowedPosters = ['sw-yx'];
+const allowedPosters = ['kealanparr'];
 const publishedTags = ['Published'];
 let allBlogposts = [];
 // let etag = null // todo - implmement etag header

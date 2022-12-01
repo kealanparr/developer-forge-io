@@ -79,7 +79,7 @@
 		</div>
 		<img
 				class="w-[80px] rounded-full sm:w-[176px] relative mb-8 sm:mb-0 mr-auto bg-cyan-300 bg-opacity-25"
-				src="/swyx-ski.jpeg" alt="swyx at Niseko" 
+				src="/profile-pic.jpg" alt="swyx at Niseko" 
 		
 			/>
 	</div>
@@ -124,13 +124,6 @@
 			Most Popular Posts
 		</h3>
 		<div class="flex flex-col gap-6 md:flex-row mb-8">
-			<FeatureCard title="Learn in Public" href="/learn-in-public" date={'Jun 2018'} />
-			<FeatureCard
-				title="The Third Age of JavaScript"
-				href="/js-third-age"
-				date={'May 2020'}
-			/>
-			<FeatureCard title="AWS plays Chess, but Cloudflare plays Go" href="/cloudflare-go" date={'Oct 2021'} />
 		</div>
 		<FeaturedWriting />
 	</section>
