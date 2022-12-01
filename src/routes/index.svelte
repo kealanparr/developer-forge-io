@@ -69,11 +69,6 @@
 				Wang
 			</h1>
 			<h2 id="bio" class="mb-4 text-gray-700 dark:text-gray-200">
-				Writer, Speaker, Developer Advocate. I help devtools cross the chasm (React + TypeScript,
-				Svelte, Netlify, now <a sveltekit:prefetch href="/why-temporal"
-				>Temporal</a>) and help developers <a sveltekit:prefetch href="/learn-in-public"
-					>Learn in Public</a
-				>!
 			</h2>
 				<a  class="text-gray-600 dark:text-gray-400" sveltekit:prefetch href="/about">More on About page</a>
 		</div>
