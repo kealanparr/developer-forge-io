@@ -82,7 +82,7 @@
 					class="flex w-auto pb-4"
 					sveltekit:prefetch
 					on:click={() => setTimeout(() => (isOpen = false), 300)}
-					href="/ideas">Ideas</a
+					href="/ideas">Posts</a
 				>
 			</li>
 			<li

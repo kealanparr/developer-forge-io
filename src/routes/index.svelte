@@ -38,7 +38,7 @@
 </script>
 
 <svelte:head>
-	<title>{SITE_TITLE}</title>
+	<title>Home</title>
 	<link rel="canonical" href={SITE_URL} />
 	<link rel="alternate" type="application/rss+xml" href={SITE_URL + '/api/rss.xml'} />
 	<meta property="og:url" content={SITE_URL} />
@@ -60,11 +60,10 @@
 	<div class="flex flex-col-reverse items-start sm:flex-row">
 		<div class="flex flex-col pr-8 mb-16 ">
 			<h1 id="me" class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl">
-				Kealan Parr
+				Developer Forge
 			</h1>
 			<h2 id="bio" class="mb-4 text-gray-700 dark:text-gray-200">
 			</h2>
-				<a  class="text-gray-600 dark:text-gray-400" sveltekit:prefetch href="/about">More on About page</a>
 		</div>
 		<img
 				class="w-[80px] rounded-full sm:w-[176px] relative mb-8 sm:mb-0 mr-auto bg-cyan-300 bg-opacity-25"

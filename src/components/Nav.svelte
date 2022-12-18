@@ -43,7 +43,7 @@
 	<MobileMenu />
 	<ul class="ml-[-0.60rem] flex">
 		<li><NavLink href="/">Home</NavLink></li>
-		<li><NavLink href="/ideas">Ideas</NavLink></li>
+		<li><NavLink href="/ideas">Posts</NavLink></li>
 		<li><NavLink href="/about">About</NavLink></li>
 	</ul>
 	<div class="flex items-center space-x-4">

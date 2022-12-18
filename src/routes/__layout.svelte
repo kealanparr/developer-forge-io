@@ -25,12 +25,6 @@
 				class="text-gray-500 transition hover:text-gray-300"
 				href="/about">About</a
 			>
-			<a class="text-gray-500 transition hover:text-gray-300" href="/subscribe">Newsletter</a>
-			<a
-				class="text-gray-500 transition hover:text-gray-300"
-				href="/api/rss.xml"
-				rel="external">RSS</a
-			>
 		</div>
 		<div class="flex flex-col space-y-4">
 			<a
@@ -42,12 +36,7 @@
 				class="text-gray-500 transition hover:text-gray-300"
 				target="_blank"
 				rel="noopener noreferrer"
-				href={REPO_URL}>GitHub</a
-			><a
-				class="text-gray-500 transition hover:text-gray-300"
-				target="_blank"
-				rel="noopener noreferrer"
-				href={MY_YOUTUBE}>YouTube</a
+				href="https://github.com/kealanparr">GitHub</a
 			>
 		</div>
 		<!-- <div class="flex flex-col space-y-4">

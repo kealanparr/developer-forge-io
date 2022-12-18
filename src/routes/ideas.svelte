@@ -167,7 +167,7 @@
 </script>
 
 <svelte:head>
-	<title>Swyx Idea Showcase</title>
+	<title>Developer Forge</title>
 	<meta name="description" content="Latest Hacker News stories in the {list} category" />
 </svelte:head>
 
