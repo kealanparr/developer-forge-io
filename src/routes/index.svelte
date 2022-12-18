@@ -60,13 +60,7 @@
 	<div class="flex flex-col-reverse items-start sm:flex-row">
 		<div class="flex flex-col pr-8 mb-16 ">
 			<h1 id="me" class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl">
-				Shawn
-				<span
-					class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-red-500"
-				>
-					<span class="relative skew-y-3 text-yellow-400">@swyx</span>
-				</span>
-				Wang
+				Kealan Parr
 			</h1>
 			<h2 id="bio" class="mb-4 text-gray-700 dark:text-gray-200">
 			</h2>
@@ -115,75 +109,80 @@
 	</section>
 	<Newsletter />
 	<section class="mb-8 w-full">
-		<h3 id="writing" class="mb-6 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
-			Most Popular Posts
-		</h3>
-		<div class="flex flex-col gap-6 md:flex-row mb-8">
-		</div>
-		<FeaturedWriting />
+			<!--
+							<h3 id="writing" class="mb-6 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
+								Most Popular Posts
+							</h3>
+							<div class="flex flex-col gap-6 md:flex-row mb-8">
+							</div>
+
+							<FeaturedWriting />
+				-->
 	</section>
-	<section class="mb-8 w-full">
-		<h3 id="speaking" class="mb-6 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
-			Most Popular Talks
-		</h3>
-		<div class="grid grid-cols-1 md:grid-cols-2 gap-6 place-items-center my-16">
-			<iframe
-			class="object-contain"
-			src="https://www.youtube.com/embed/KJP1E-Y-xyo"
-			title="video123"
-			name="video123"
-			allow="accelerometer; autoplay; encrypted-media; gyroscope;
-			picture-in-picture"
-			frameBorder="0"
-			webkitallowfullscreen="true"
-			mozallowfullscreen="true"
-			width="300"
-			height="200"
-			allowFullScreen
-			aria-hidden="true"></iframe>
-			<iframe
-			class="object-contain"
-			src="https://www.youtube.com/embed/D-Sj6jo4o1I"
-			title="video123"
-			name="video123"
-			allow="accelerometer; autoplay; encrypted-media; gyroscope;
-			picture-in-picture"
-			frameBorder="0"
-			webkitallowfullscreen="true"
-			mozallowfullscreen="true"
-			width="300"
-			height="200"
-			allowFullScreen
-			aria-hidden="true"></iframe>
-			<iframe
-			class="object-contain"
-			src="https://www.youtube.com/embed/GWCcZ6fnpn4"
-			title="video123"
-			name="video123"
-			allow="accelerometer; autoplay; encrypted-media; gyroscope;
-			picture-in-picture"
-			frameBorder="0"
-			webkitallowfullscreen="true"
-			mozallowfullscreen="true"
-			width="300"
-			height="200"
-			allowFullScreen
-			aria-hidden="true"></iframe>
-			<iframe
-			class="object-contain"
-			src="https://www.youtube.com/embed/nyFHR0dDZo0"
-			title="video123"
-			name="video123"
-			allow="accelerometer; autoplay; encrypted-media; gyroscope;
-			picture-in-picture"
-			frameBorder="0"
-			webkitallowfullscreen="true"
-			mozallowfullscreen="true"
-			width="300"
-			height="200"
-			allowFullScreen
-			aria-hidden="true"></iframe>
-		</div>
-		<FeaturedSpeaking />
-	</section>
+			<!--
+							<section class="mb-8 w-full">
+								<h3 id="speaking" class="mb-6 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
+									Most Popular Talks
+								</h3>
+								<div class="grid grid-cols-1 md:grid-cols-2 gap-6 place-items-center my-16">
+									<iframe
+									class="object-contain"
+									src="https://www.youtube.com/embed/KJP1E-Y-xyo"
+									title="video123"
+									name="video123"
+									allow="accelerometer; autoplay; encrypted-media; gyroscope;
+									picture-in-picture"
+									frameBorder="0"
+									webkitallowfullscreen="true"
+									mozallowfullscreen="true"
+									width="300"
+									height="200"
+									allowFullScreen
+									aria-hidden="true"></iframe>
+									<iframe
+									class="object-contain"
+									src="https://www.youtube.com/embed/D-Sj6jo4o1I"
+									title="video123"
+									name="video123"
+									allow="accelerometer; autoplay; encrypted-media; gyroscope;
+									picture-in-picture"
+									frameBorder="0"
+									webkitallowfullscreen="true"
+									mozallowfullscreen="true"
+									width="300"
+									height="200"
+									allowFullScreen
+									aria-hidden="true"></iframe>
+									<iframe
+									class="object-contain"
+									src="https://www.youtube.com/embed/GWCcZ6fnpn4"
+									title="video123"
+									name="video123"
+									allow="accelerometer; autoplay; encrypted-media; gyroscope;
+									picture-in-picture"
+									frameBorder="0"
+									webkitallowfullscreen="true"
+									mozallowfullscreen="true"
+									width="300"
+									height="200"
+									allowFullScreen
+									aria-hidden="true"></iframe>
+									<iframe
+									class="object-contain"
+									src="https://www.youtube.com/embed/nyFHR0dDZo0"
+									title="video123"
+									name="video123"
+									allow="accelerometer; autoplay; encrypted-media; gyroscope;
+									picture-in-picture"
+									frameBorder="0"
+									webkitallowfullscreen="true"
+									mozallowfullscreen="true"
+									width="300"
+									height="200"
+									allowFullScreen
+									aria-hidden="true"></iframe>
+								</div>
+								<FeaturedSpeaking />
+							</section>
+				-->
 </div>
